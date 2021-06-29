@@ -9,5 +9,3 @@ More explanation to the algorithm function is in the paper provided.
 
 Created and Developed by:
 Kristian Moreno
-BS Computer Science specializing in Data Science
-University of Southeastern Philippines
