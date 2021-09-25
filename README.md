@@ -7,5 +7,5 @@ The program utilizes the unique diagonal properties of matrices to traverse the 
 A matrix diagonal have unique properties that can be traversed by utilizing an array, we then exploit this traverse function to speed up the solving of the matrices.
 More explanation to the algorithm function is in the paper provided.
 
-Created and Developed by:
-Kristian Moreno
+
+Author: Kristian Moreno
